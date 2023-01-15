@@ -3,6 +3,9 @@ It is a simple game I built some time ago on Scrimba with React.
 Live version: https://tubular-crepe-931029.netlify.app/
 
 
+https://user-images.githubusercontent.com/7899896/212519574-5977a7c0-5d55-4511-aa36-a41b57c41177.mov
+
+
 
 # Getting Started with Create React App
 
